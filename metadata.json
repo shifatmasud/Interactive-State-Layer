@@ -1,0 +1,5 @@
+{
+  "name": "Interactive State Layer",
+  "description": "A full-viewport interactive container demonstrating a fluid, cursor-aware state layer effect. On mouse or touch enter, a circular overlay expands from the pointer's position, and retracts on leave, showcasing advanced UI animation principles.",
+  "requestFramePermissions": []
+}
